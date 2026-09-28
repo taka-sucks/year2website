@@ -367,13 +367,10 @@ animation: bounc 0.3s ease infinite alternate;
 100% {
 top: -.50rem;
 }
-<<<<<<< HEAD
 }
 .media-stack {
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: transparent;
-=======
->>>>>>> afe049d70ec68ffc9a870a5081c402638b258713
 }
